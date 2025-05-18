@@ -1,0 +1,5 @@
+stepName,xpath,action,key
+1. go to groww page,https://groww.in/,navigate,none
+
+5.enter pin,/html/body/div[1]/div/div/div[2]/div/div/div/form/div[1]/div[1]/input,sendkeys,9090
+6.enter proceedbutton,/html/body/div[1]/div/div/div[2]/div/div/div/form/div[2]/button,click,sample

@@ -1,0 +1,170 @@
+2025-03-26 18:37:46.012 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.111
+X-ClientPublicIP: 121.242.106.39
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"941009","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-26 18:37:46.012 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-26 18:40:19.000 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.111
+X-ClientPublicIP: 121.242.106.39
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"682840","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-26 18:40:19.001 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 12:55:21.656 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"062576","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 12:55:21.656 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:06:05.430 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"807819","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:06:05.433 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:10:58.475 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"accvraiz1, Jul 10, 2024, trustedCertEntry,","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:10:58.475 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:14:37.893 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"017384","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:14:37.894 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:15:06.231 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"136146","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 13:15:06.232 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:09:19.870 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"716798","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:09:19.870 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:26:51.785 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"713548","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:26:51.786 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:30:29.545 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"421936","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:30:29.546 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:33:36.687 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"513339","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:33:36.703 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:36:22.156 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"101033","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:36:22.172 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:50:41.515 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"344594","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:50:41.516 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:57:43.375 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"664812","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:57:43.376 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:58:46.879 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"998369","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 14:58:46.880 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 15:01:01.008 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"12345","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 15:01:01.008 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 15:01:50.385 [main] ERROR c.a.s.http.SmartAPIRequestHandler - Error in POST request. Request URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Request Headers: Content-Type: application/json
+X-ClientLocalIP: 10.29.120.92
+X-ClientPublicIP: 118.185.180.101
+X-MACAddress: 30-F6-EF-82-0B-F5
+Accept: application/json
+X-PrivateKey: KrcoL3QO
+X-UserType: USER
+X-SourceID: WEB
+, Request Body: {"totp":"715611","password":"9090","clientcode":"N51864425"},Response : PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2025-03-27 15:01:50.385 [main] ERROR c.angelbroking.smartapi.SmartConnect - PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target

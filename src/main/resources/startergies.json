@@ -1,0 +1,23 @@
+{
+
+ "stratergies":[{
+  "stockSymbol": "",
+  "executionTime": "",
+  "target": 2,
+  "targetChange": [
+    {
+      "minutes": 60,
+      "revisedTarget": 1
+    },
+    {
+      "minutes": 90,
+      "revisedTarget": 0.75
+    },
+    {
+      "minutes": 120,
+      "revisedTarget": 0.5
+    }
+  ]
+}]
+
+}

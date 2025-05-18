@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>selenium-automation</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <java.version>11</java.version>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.wagon.http.ssl.insecure>true</maven.wagon.http.ssl.insecure>
+        <maven.wagon.http.ssl.allowall>true</maven.wagon.http.ssl.allowall>
+    </properties>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.29.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version> 4.12.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/okhttp-4.12.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.konghq</groupId>
+            <artifactId>unirest-java</artifactId>
+            <version>3.14.5</version>
+        </dependency>
+
+        <!--<dependency>
+            <groupId>com.yahoofinance-api</groupId>
+            <artifactId>YahooFinanceAPI</artifactId>
+            <version>3.15.0</version>
+        </dependency>
+-->
+        <dependency>
+            <groupId>com.angelbroking.smartapi</groupId>
+            <artifactId>smartapi-java</artifactId>
+            <version>2.2.6</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/smartapi-java-2.2.6.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.github.pnpninja</groupId>
+            <artifactId>nsetools</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <version>3.7.1</version>
+                <configuration>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                    <archive>
+                        <manifest>
+                            <mainClass>com.zs.af.Automate</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>assemble-all</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
